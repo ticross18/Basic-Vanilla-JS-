@@ -1,3 +1,4 @@
+         document.body.style.zoom="85%"
          var ans = 0;
 
          function display(val) 
