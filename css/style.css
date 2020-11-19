@@ -1,3 +1,5 @@
+
+
 .title{
   text-align: center;
   margin-top: 5%;
@@ -47,13 +49,7 @@ input{
 }
 
 
-input[type="button"]{
-	background: 
-}
-
-
-input[type="button"]{
-	}input[type="button"]:hover{
+input[type="button"]:hover{
 	background: grey;
 }
 
