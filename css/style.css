@@ -1,0 +1,51 @@
+.container{
+  margin-left: 20px;
+
+}
+
+.header{
+  font-size: 60px;
+  color: black;
+  text-align:center;
+  letter-spacing: 0.1em;
+  margin: 50px;
+}
+
+.header span{
+  background-color: rgba(229, 60, 187, 0.1);
+  padding: 10px;
+  opacity: 0.7;
+}
+
+.list-container{
+  background-color: rgb(211,211,211, 0.2);
+  max-width: 85%;
+  min-height: 50%;
+  border: 100;
+  padding: 1px;
+  font-size: 25px;
+  margin: 50px;
+
+}
+
+.list-container li{
+  font-size: 30px;
+  margin: 10px 0;
+  letter-spacing: 0.1em;
+  font-family: monospace;
+  list-style-type: circle;
+  padding-left: 10px;
+}
+
+.list-container a:visited{
+  color:grey;
+}
+
+.list-container a:link{
+  color:grey;
+}
+.list-container a:hover{
+  background-color: pink;
+}
+
+
